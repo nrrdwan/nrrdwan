@@ -16,6 +16,9 @@
 <a href="https://linkedin.com/in/nur-ridwan-b4533b319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="#" height="30" width="40" /></a>
 <a href="https://instagram.com/nrrdwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="#" height="30" width="40" /></a>
 
+![Wan Graph](https://github-readme-activity-graph.vercel.app/graph?username=nrrdwan&custom_title=@nrrdwan's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=006D31&line=006D31&point=006D31&area_color=006D31&title_color=FFFFFF&area=true)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 # 💻 Tech Stack:
